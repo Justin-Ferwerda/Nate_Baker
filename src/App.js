@@ -1,5 +1,4 @@
 import React, {Fragment} from 'react';
-import Switcher from "./components/Switcher";
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 /*
@@ -38,7 +37,6 @@ import PortfolioMasonryThreeColumnFullWidthPage from "./pages/portfolio/masonry/
 const App = () => {
     return (
         <Fragment>
-            <Switcher/>
             <Router>
                 <Switch>
                     <Route path={`${process.env.PUBLIC_URL + "/contact"}`}
