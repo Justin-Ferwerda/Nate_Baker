@@ -7,7 +7,6 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bootstrap": "^5.2.3",
-    "disqus-react": "^1.1.2",
     "font-awesome": "^4.7.0",
     "imagesloaded": "^4.1.4",
     "masonry-layout": "^4.2.2",
