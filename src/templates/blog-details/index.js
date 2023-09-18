@@ -1,7 +1,6 @@
 import React from 'react';
 import blogs from '../../data/blog';
 import BlogDetailsContent from "./Content";
-import {DiscussionEmbed} from 'disqus-react';
 import SidebarWrap from "../../container/sidebar";
 import {Container, Row, Col} from 'react-bootstrap';
 import useGetParams from "../../hooks/useGetParams";
@@ -11,13 +10,6 @@ import PageContainer from "../../container/CustomPage";
 const TemplateBlogDetails = ({sidebar, sidebarPosition}) => {
     const {slug} = useGetParams()
     const post = blogs.find(blog => blog.slug === slug);
-
-    // Disqus Comments add
-    const disqusConfig = {
-        identifier: post.slug,
-        title: post.title,
-        url: `https://hasthemes.com/${slug}`
-    };
 
     return (
         <PageContainer classes={'bg-grey'}>
@@ -42,11 +34,6 @@ const TemplateBlogDetails = ({sidebar, sidebarPosition}) => {
 
                         <div className="comment-wrap">
                             <h3>Comments</h3>
-
-                            <DiscussionEmbed
-                                shortname="mitech-1"
-                                config={disqusConfig}
-                            />
                         </div>
                     </Col>
 
