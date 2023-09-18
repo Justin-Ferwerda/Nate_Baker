@@ -1,17 +1,16 @@
 [
   {
     "id": 1,
-    "title": "Oil Paint Dog",
-    "slug": "oil-paint-dog",
-    "category": "Design",
-    "thumb": "portfolio-1.jpg",
+    "title": "Davey Mic'ed Up",
+    "slug": "davey-miced-up",
+    "category": "",
+    "thumb": "davey-miced-up.jpg",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-1.jpg",
-      "portfolio-2.jpg"
+      "davey-miced-up.jpg"
     ],
     "meta": {
-      "client": "Jerry Wilson",
+      "client": "Washington Nationals",
       "date": "01/05/2020",
       "website": "https://hasthemes.com",
       "services": [
