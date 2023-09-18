@@ -8,20 +8,7 @@ const PortfolioDetailsContent = ({title, slug, category, description, meta}) => 
             <h1 className="title">{title}</h1>
             <p>{description}</p>
             <ul className="project-info">
-                <li><span>Client:</span> {meta?.client}</li>
-                <li><span>Date:</span> {meta?.date}</li>
-                <li><span>Website:</span>
-                    <a href={meta?.website}
-                       target="_blank"
-                       rel="noopener noreferrer">{meta?.website}
-                    </a>
-                </li>
-                <li>
-                    <span>Tags:</span>
-                    {meta?.services.map((service, index) => (
-                        <a key={index} href="/">{service}</a>
-                    ))}
-                </li>
+                <li><span>Role:</span> {meta?.role}</li>
             </ul>
 
             <div className="project-share">
