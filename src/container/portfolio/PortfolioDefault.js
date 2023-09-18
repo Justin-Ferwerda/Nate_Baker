@@ -32,7 +32,7 @@ let PortfolioDefault = (props, ref) => {
                                             slug={portfolio.slug}
                                             title={portfolio.title}
                                             category={portfolio.category}
-                                            thumb={"long-" + portfolio.thumb}
+                                            thumb={portfolio.thumb}
                                             classes={'portfolio-screen-height'}
                                         />
                                     </div>
