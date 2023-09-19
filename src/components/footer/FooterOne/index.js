@@ -8,7 +8,6 @@ const FooterOne = ({next, prev}) => {
                     <div className="footer-copyright col-lg-4 col-12 order-lg-1 order-3">
                         <p>&copy; {new Date().getFullYear()} Nate Baker.  ALL RIGHTS RESERVED</p>
                     </div>
-
                     <div className="col-lg-4 col-12 order-lg-2 order-1 mb-sm-15 mb-xs-15">
                         <div className="portfolio-slider-5-nav">
                             <button
