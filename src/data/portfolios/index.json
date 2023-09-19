@@ -29,288 +29,100 @@
   },
   {
     "id": 3,
-    "title": "Flying Macbook",
-    "slug": "flying-macbook",
-    "category": "Markup",
-    "thumb": "portfolio-3.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "Recap of July 4th 'Nats on Base Abroad' Event",
+    "slug": "july-fourth",
+    "category": "",
+    "thumb": "july-fourth.jpg",
+    "description": "Recap of the 4th of July 4th Nats on Base Abroad event held in Qatar.",
     "previewImages": [
-      "portfolio-3.jpg",
-      "portfolio-2.jpg"
+      "qfwr-foJh7k"
     ],
     "meta": {
-      "client": "Jerry Wilson",
-      "date": "21/05/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Design",
-        "Web",
-        "Photography"
-      ]
+      "role": "Manager of Video Production"
     }
   },
   {
     "id": 4,
-    "title": "Floating Card",
-    "slug": "floating-card",
-    "category": "Design",
-    "thumb": "portfolio-4.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "2019 Nationals Wild Card Game Fan Footage Recap",
+    "slug": "2019-Nats-fan-footage-recap",
+    "category": "",
+    "thumb": "wild-card-recap.jpg",
+    "description": "Fan footage of the 2019 Nationals Wild Card game",
     "previewImages": [
-      "portfolio-4.jpg",
-      "portfolio-2.jpg",
-      "portfolio-3.jpg"
+     "Mt0xBgrY4Fc"
     ],
     "meta": {
-      "client": "Jowel Jerry",
-      "date": "01/05/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Web",
-        "Photography"
-      ]
+      "role":"Manager of Video Production"
     }
   },
   {
     "id": 5,
-    "title": "Minimau Typeface",
-    "slug": "minimau-typeface",
-    "category": "Website",
-    "thumb": "portfolio-5.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "'Silence and Beauty' by Makoto Fujiimura",
+    "slug": "silence-and-beauty",
+    "category": "",
+    "thumb": "silence-and-beauty.jpg",
+    "description": "Shusaku Endo's 'Silence' took internationally renowned visual artist Makoto Fujimura on a pilgrimage of grappling with the nature of art, the significance of pain and his own cultural heritage. His artistic faith journey overlaps with Endo's as he uncovers deep layers of meaning in Japanese history and literature, expressed in art both past and present. He finds connections to how faith is lived in contemporary contexts of trauma and glimpses of how the gospel is conveyed in Christ-hidden cultures.",
     "previewImages": [
-      "portfolio-5.jpg",
-      "portfolio-1.jpg"
+      "SIODZTB78XU"
     ],
     "meta": {
-      "client": "Rashed Jerry",
-      "date": "01/05/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Web",
-        "Photography"
-      ]
+      "role":"Manager of Video Production"
     }
   },
   {
     "id": 6,
-    "title": "Oil Dog Paint",
-    "slug": "oil-dog-paint",
-    "category": "Design",
-    "thumb": "portfolio-6.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "Recap of the 2019 Washington Nationals World Series Win",
+    "slug": "world-series-recap",
+    "category": "",
+    "thumb": "WS-recap.jpg",
+    "description": "Recap of the 2019 Washington Nationals World Series Win",
     "previewImages": [
-      "portfolio-6.jpg",
-      "portfolio-2.jpg",
-      "portfolio-3.jpg"
+      "fhQfrrSMZUE"
     ],
     "meta": {
-      "client": "Tasnim Khatun",
-      "date": "29/09/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "role":"Manager of Video Production"
     }
   },
   {
     "id": 7,
-    "title": "Hardcover Book Cover",
-    "slug": "hardcover-book-cover",
-    "category": "Photography",
-    "thumb": "portfolio-7.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "2022 City Connect Nationals In-Park Hype Video",
+    "slug": "in-park-hype-video",
+    "category": "",
+    "thumb": "in-park-hype-video.jpg",
+    "description": "Hype Beasts!",
     "previewImages": [
-      "portfolio-7.jpg",
-      "portfolio-3.jpg"
+      "lTdH4M7X0BY"
     ],
     "meta": {
-      "client": "Hassan Al",
-      "date": "11/03/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "role": "Manager of Video Production"
     }
   },
   {
     "id": 8,
-    "title": "Flying Macbook M1 Chip",
-    "slug": "flying-macbook-m1-chip",
-    "category": "Markup",
-    "thumb": "portfolio-8.jpg",
+    "title": "TCY: Vol. 3, Lupe Carroll (Winning Streak by Glen Hansard)",
+    "slug": "tcy-carroll",
+    "category": "",
+    "thumb": "TCY-Carroll.jpg",
     "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
     "previewImages": [
-      "portfolio-8.jpg",
-      "portfolio-4.jpg"
+      "uKee9FQeRU0"
     ],
     "meta": {
-      "client": "Tasnim Khatun",
-      "date": "29/09/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "role":"Manager of Video Production"
     }
   },
   {
     "id": 9,
-    "title": "Portfolio Lorem ipsum",
-    "slug": "portfolio-lorem-ipsum",
-    "category": "Markup",
-    "thumb": "portfolio-9.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
+    "title": "Washington Nationals Big Leaguers Take on Little League Classic",
+    "slug": "little-league-classic",
+    "category": "",
+    "thumb": "llc-thumbnail.jpg",
+    "description": "Watch the Washington Nationals experience one of the best days in baseball: The Little League Classic. CJ Abrams, Lane Thomas, Josiah Gray, Davey Martinez and the rest of the Nats spent the day at the Little League World Series celebrating the joys of Little League Baseball before their matchup against the Philadelphia Phillies.",
     "previewImages": [
-      "portfolio-9.jpg",
-      "portfolio-6.jpg"
+      "ls7WcyLLvXw"
     ],
     "meta": {
-      "client": "John Doe",
-      "date": "31/08/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
-    }
-  },
-  {
-    "id": 10,
-    "title": "Minimau Lorem Typeface",
-    "slug": "minimau-lorem-typeface",
-    "category": "Markup",
-    "thumb": "portfolio-10.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-10.jpg",
-      "portfolio-4.jpg"
-    ],
-    "meta": {
-      "client": "Nasnim Shatun",
-      "date": "21/01/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "title": "Hardcover Book Cover",
-    "slug": "hardcover-book-cover",
-    "category": "Photography",
-    "thumb": "portfolio-11.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-11.jpg",
-      "portfolio-4.jpg"
-    ],
-    "meta": {
-      "client": "Khatun Bibi",
-      "date": "29/09/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
-    }
-  },
-  {
-    "id": 12,
-    "title": "Flying Macbook M1 Pro",
-    "slug": "flying-macbook-m1-pro",
-    "category": "Markup",
-    "thumb": "portfolio-12.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-12.jpg",
-      "portfolio-4.jpg"
-    ],
-    "meta": {
-      "client": "Angel Sokina",
-      "date": "29/09/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
-    }
-  },
-  {
-    "id": 13,
-    "title": "Ipsum Minimau Typeface",
-    "slug": "ipsum-minimau-typeface",
-    "category": "Website",
-    "thumb": "portfolio-13.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-13.jpg",
-      "portfolio-4.jpg"
-    ],
-    "meta": {
-      "client": "Alex Tuntuni",
-      "date": "11/11/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Photography"
-      ]
-    }
-  },
-  {
-    "id": 14,
-    "title": "Oil Paint Dog Two",
-    "slug": "oil-paint-dog-two",
-    "category": "Design",
-    "thumb": "portfolio-14.jpg",
-    "description": "The majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-14.jpg",
-      "portfolio-4.jpg"
-    ],
-    "meta": {
-      "client": "Jowel Mia",
-      "date": "09/09/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech"
-      ]
-    }
-  },
-  {
-    "id": 15,
-    "title": "Portfolio Lorem ipsum is detour",
-    "slug": "portfolio-lorem-ipsum-is-detour",
-    "category": "Markup",
-    "thumb": "portfolio-15.jpg",
-    "description": "Majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour lebmid. There are many variations of passages of Lorem Ipsum available.",
-    "previewImages": [
-      "portfolio-15.jpg",
-      "portfolio-4.jpg"
-    ],
-    "meta": {
-      "client": "Humaun Khepa",
-      "date": "05/06/2021",
-      "website": "https://hasthemes.com",
-      "services": [
-        "Branding",
-        "Tech",
-        "Photography"
-      ]
+      "role":"Manager of Video Production"
     }
   }
 ]
