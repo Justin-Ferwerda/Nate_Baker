@@ -29,8 +29,7 @@
     "title": "Photography",
     "link": "/blog",
     "megaMenu": false,
-    "subMenu": [
-    ]
+    "subMenu": false
   },
   {
     "id": 6,
