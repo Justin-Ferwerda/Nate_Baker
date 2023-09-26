@@ -10,15 +10,6 @@ const PortfolioDetailsContent = ({title, slug, category, description, meta}) => 
             <ul className="project-info">
                 <li><span>Role:</span> {meta?.role}</li>
             </ul>
-
-            <div className="project-share">
-                <span>Share:</span>
-                <a href="/"><i className="fa fa-facebook"/></a>
-                <a href="/"><i className="fa fa-twitter"/></a>
-                <a href="/"><i className="fa fa-pinterest-p"/></a>
-                <a href="/"><i className="fa fa-google-plus"/></a>
-            </div>
-
         </div>
     );
 };
