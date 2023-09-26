@@ -17,16 +17,6 @@ const AboutMe = ({type}) => {
                         <Content classes={'about-content'}>
                             <h3 className="block-title">ABOUT ME</h3>
                             <p>{aboutData.bio}</p>
-                            <ul className="personal-info">
-                                <li><span>Skype:</span>{aboutData.skype}</li>
-                                <li><span>Freelance:</span>{aboutData.availability ? 'Available' : 'Not Available'}</li>
-                                <li>
-                                    <span>Language:</span>
-                                    {aboutData.languages.map((language, index) => (
-                                        <p key={index} style={{display: 'inline-block'}}>{`${language},  `}</p>
-                                    ))}
-                                </li>
-                            </ul>
                         </Content>
                     </Col>
                 </Row>
