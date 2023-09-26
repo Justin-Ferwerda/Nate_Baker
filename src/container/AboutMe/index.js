@@ -3,6 +3,7 @@ import {Container, Row, Col} from 'react-bootstrap'
 import Thumbnail from "../../components/thumbnail";
 import Content from "../../components/content";
 import aboutData from '../../data/about-me'
+import QuickContact from '../../components/QuickContact';
 
 const AboutMe = ({type}) => {
     return (
@@ -17,6 +18,7 @@ const AboutMe = ({type}) => {
                         <Content classes={'about-content'}>
                             <h3 className="block-title">ABOUT ME</h3>
                             <p>{aboutData.bio}</p>
+                            <QuickContact email={'n.thomasbaker@gmail.com'} />
                         </Content>
                     </Col>
                 </Row>
