@@ -33,12 +33,15 @@ import PortfolioGridThreeColumnFullWidthPage from "./pages/portfolio/grid/three-
 import PortfolioMasonryFourColumnFullWidthPage from "./pages/portfolio/masonry/four-column-fullwidth";
 import PortfolioMasonryFiveColumnFullWidthPage from "./pages/portfolio/masonry/five-column-fullwidth";
 import PortfolioMasonryThreeColumnFullWidthPage from "./pages/portfolio/masonry/three-column-fullwidth";
+import PhotoThreeColumnPage from './pages/photography/three-column';
 
 const App = () => {
     return (
         <Fragment>
             <Router>
                 <Switch>
+                     <Route path={`${process.env.PUBLIC_URL + "/photography"}`}
+                           component={PhotoThreeColumnPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/contact"}`}
                            component={ContactPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/team"}`}
