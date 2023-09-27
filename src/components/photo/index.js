@@ -16,7 +16,7 @@ const Photo = ({slug, thumb, classes, title, category, variant, path}) => {
                 ) : (
                     <div
                         className="portfolio-image"
-                        style={{backgroundImage: `url(${require('../../assets/images/photos/allStarWeekend/' + thumb)})`}}
+                        style={{backgroundImage: `url(${require(`../../assets/images/photos/${path}/${thumb}`)})`}}
                     />
                 )}
                 <div className="portfolio-content">
