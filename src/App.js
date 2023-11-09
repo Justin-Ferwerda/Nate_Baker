@@ -19,7 +19,6 @@ import HomeThreeColumn from "./pages/home/HomeThreeColumn";
 import MyReelPage from "./pages/portfolio/details";
 import HomePersonalPortfolio from "./pages/home/HomePersonalPortfolio";
 import HomeFreelancerPortfolio from "./pages/home/HomeFreelancerPortfolio";
-import Portfolio from "./pages/portfolio/grid/two-column";
 import BlogTwoColumnLeftSidebarPage from "./pages/blog/TwoColumnLeftSidebar";
 import PortfolioGridFourColumnPage from "./pages/portfolio/grid/four-column";
 import PortfolioGridThreeColumnPage from "./pages/portfolio/grid/three-column";
@@ -34,6 +33,7 @@ import PortfolioMasonryFourColumnFullWidthPage from "./pages/portfolio/masonry/f
 import PortfolioMasonryFiveColumnFullWidthPage from "./pages/portfolio/masonry/five-column-fullwidth";
 import PortfolioMasonryThreeColumnFullWidthPage from "./pages/portfolio/masonry/three-column-fullwidth";
 import PhotoThreeColumnPage from './pages/photography/three-column';
+import PortfolioDetailsPage from './pages/portfolio/details';
 
 const App = () => {
     return (
@@ -57,7 +57,7 @@ const App = () => {
                     <Route path={`${process.env.PUBLIC_URL + "/blog"}`}
                            component={BlogThreeColumnPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/my-reel"}`}
-                           component={MyReelPage}/>
+                           component={PortfolioDetailsPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio-masonry-five-column-fullwidth"}`}
                            component={PortfolioMasonryFiveColumnFullWidthPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio-masonry-four-column-fullwidth"}`}
@@ -80,8 +80,8 @@ const App = () => {
                            component={PortfolioGridFourColumnPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio-grid-three-column"}`}
                            component={PortfolioGridThreeColumnPage}/>
-                    <Route path={`${process.env.PUBLIC_URL + "/portfolio"}`}
-                           component={Portfolio}/>
+                    <Route path={`${process.env.PUBLIC_URL + "/portfolio/:slug"}`}
+                           component={PortfolioDetailsPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/about"}`}
                            component={AboutPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/home-freelancer-portfolio"}`}
