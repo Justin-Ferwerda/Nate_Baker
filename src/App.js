@@ -16,7 +16,7 @@ import HomeFiveColumn from './pages/home/HomeFiveColumn';
 import HomeFourColumn from "./pages/home/HomeFourColumn";
 import BlogThreeColumnPage from "./pages/blog/ThreeColumn";
 import HomeThreeColumn from "./pages/home/HomeThreeColumn";
-import MyReelPage from "./pages/portfolio/details";
+import MyReelPage from "./pages/myReel";
 import HomePersonalPortfolio from "./pages/home/HomePersonalPortfolio";
 import HomeFreelancerPortfolio from "./pages/home/HomeFreelancerPortfolio";
 import BlogTwoColumnLeftSidebarPage from "./pages/blog/TwoColumnLeftSidebar";
@@ -57,7 +57,7 @@ const App = () => {
                     <Route path={`${process.env.PUBLIC_URL + "/blog"}`}
                            component={BlogThreeColumnPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/my-reel"}`}
-                           component={PortfolioDetailsPage}/>
+                           component={MyReelPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio-masonry-five-column-fullwidth"}`}
                            component={PortfolioMasonryFiveColumnFullWidthPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio-masonry-four-column-fullwidth"}`}
