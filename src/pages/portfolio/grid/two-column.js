@@ -5,7 +5,7 @@ import PortfolioGridTwoColumn from "../../../templates/portfolio/grid/two-column
 import FooterTwo from "../../../components/footer/FooterTwo";
 import portfolioData from '../../../data/portfolios'
 
-const PortfolioGridTwoColumnPage = () => {
+const Portfolio = () => {
     const [count, setCount] = useState(8);
     const [loading, setLoading] = useState(false);
     const portfolios = portfolioData.slice(0, count);
@@ -30,4 +30,4 @@ const PortfolioGridTwoColumnPage = () => {
     );
 };
 
-export default PortfolioGridTwoColumnPage;
+export default Portfolio;

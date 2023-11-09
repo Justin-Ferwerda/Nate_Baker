@@ -15,19 +15,19 @@
   {
     "id": 4,
     "title": "My Reel",
-    "link": "/portfolio/my-reel",
+    "link": "/my-reel",
     "megaMenu": false
   },
   {
     "id": 3,
     "title": "Portfolio",
-    "link": "/portfolio-grid-two-column",
+    "link": "/portfolio",
     "megaMenu": false
   },
   {
     "id": 5,
     "title": "Photography",
-    "link": "/blog",
+    "link": "/all-photos",
     "megaMenu": false,
     "subMenu": [
       {

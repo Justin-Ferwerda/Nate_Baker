@@ -3,7 +3,6 @@ import Scrollbar from 'perfect-scrollbar-react';
 import 'perfect-scrollbar-react/dist/style.min.css';
 import Logo from "../logo";
 import NavItem from "../navbar/NavItem";
-import socialicons from '../../data/social-networks'
 
 const SideHeader = ({mobile}) => {
 
@@ -83,14 +82,6 @@ const SideHeader = ({mobile}) => {
                             </div>
 
                             <div className="side-header-footer pb-120 pb-lg-80 pb-md-80 pb-sm-80 pb-xs-50">
-                                <div className="side-header-social">
-                                    {socialicons.map(icon => (
-                                        <a key={icon.id} href={`https://${icon.media}.com/${icon.username}`}>
-                                            <i className={`fa fa-${icon.media}`}/>
-                                        </a>
-                                    ))}
-                                </div>
-
                                 <div className="side-header-copyright">
                                     <p>&copy; {new Date().getFullYear()} NATE BAKER.   ALL RIGHTS RESERVED</p>
                                 </div>

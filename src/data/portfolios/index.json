@@ -124,19 +124,5 @@
     "meta": {
       "role":"Director, Writer, and Editor"
     }
-  },
-  {
-    "id": 10,
-    "title": "Nate Baker Reel",
-    "slug": "my-reel",
-    "category": "",
-    "thumb": "my-reel.jpg",
-    "description": "Check out my reel",
-    "previewImages": [
-      "Pr61tH5oU2E"
-    ],
-    "meta": {
-      "role":"Manager of Video Production"
-    }
   }
 ]
