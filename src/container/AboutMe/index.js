@@ -18,7 +18,7 @@ const AboutMe = ({type}) => {
                         <Content classes={'about-content'}>
                             <h3 className="block-title">ABOUT ME</h3>
                             <p>{aboutData.bio}</p>
-                            <QuickContact email={'n.thomasbaker@gmail.com'} />
+                            <QuickContact info={'n.thomasbaker@gmail.com'} />
                         </Content>
                     </Col>
                 </Row>

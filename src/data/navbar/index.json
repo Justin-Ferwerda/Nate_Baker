@@ -15,13 +15,13 @@
   {
     "id": 4,
     "title": "My Reel",
-    "link": "/portfolio/my-reel",
+    "link": "/my-reel",
     "megaMenu": false
   },
   {
     "id": 3,
     "title": "Portfolio",
-    "link": "/portfolio-grid-two-column",
+    "link": "/portfolio",
     "megaMenu": false
   },
   {

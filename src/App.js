@@ -16,10 +16,10 @@ import HomeFiveColumn from './pages/home/HomeFiveColumn';
 import HomeFourColumn from "./pages/home/HomeFourColumn";
 import BlogThreeColumnPage from "./pages/blog/ThreeColumn";
 import HomeThreeColumn from "./pages/home/HomeThreeColumn";
-import PortfolioDetailsPage from "./pages/portfolio/details";
+import MyReelPage from "./pages/portfolio/details";
 import HomePersonalPortfolio from "./pages/home/HomePersonalPortfolio";
 import HomeFreelancerPortfolio from "./pages/home/HomeFreelancerPortfolio";
-import PortfolioGridTwoColumnPage from "./pages/portfolio/grid/two-column";
+import Portfolio from "./pages/portfolio/grid/two-column";
 import BlogTwoColumnLeftSidebarPage from "./pages/blog/TwoColumnLeftSidebar";
 import PortfolioGridFourColumnPage from "./pages/portfolio/grid/four-column";
 import PortfolioGridThreeColumnPage from "./pages/portfolio/grid/three-column";
@@ -56,8 +56,8 @@ const App = () => {
                            component={BlogTwoColumnRightSidebarPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/blog"}`}
                            component={BlogThreeColumnPage}/>
-                    <Route path={`${process.env.PUBLIC_URL + "/portfolio/:slug"}`}
-                           component={PortfolioDetailsPage}/>
+                    <Route path={`${process.env.PUBLIC_URL + "/my-reel"}`}
+                           component={MyReelPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio-masonry-five-column-fullwidth"}`}
                            component={PortfolioMasonryFiveColumnFullWidthPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio-masonry-four-column-fullwidth"}`}
@@ -80,8 +80,8 @@ const App = () => {
                            component={PortfolioGridFourColumnPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/portfolio-grid-three-column"}`}
                            component={PortfolioGridThreeColumnPage}/>
-                    <Route path={`${process.env.PUBLIC_URL + "/portfolio-grid-two-column"}`}
-                           component={PortfolioGridTwoColumnPage}/>
+                    <Route path={`${process.env.PUBLIC_URL + "/portfolio"}`}
+                           component={Portfolio}/>
                     <Route path={`${process.env.PUBLIC_URL + "/about"}`}
                            component={AboutPage}/>
                     <Route path={`${process.env.PUBLIC_URL + "/home-freelancer-portfolio"}`}

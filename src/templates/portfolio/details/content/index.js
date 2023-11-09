@@ -8,7 +8,7 @@ const PortfolioDetailsContent = ({title, slug, category, description, meta}) => 
             <h1 className="title">{title}</h1>
             <p>{description}</p>
             <ul className="project-info">
-                <li><span>Role:</span> {meta?.role}</li>
+                {meta ? <li><span>Role:</span> {meta?.role}</li> : ''}
             </ul>
         </div>
     );
