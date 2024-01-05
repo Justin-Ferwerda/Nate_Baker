@@ -24,7 +24,7 @@ const HomeThreeColumn = () => {
 
     return (
         <div className={'main-wrapper'}>
-            <Header/>
+            <Header classes={'position-static'}/>
             <SideHeader mobile={true}/>
             <PortfolioThreeColumn portfolios={portfolios} loading={loading}/>
             <Footer loadHandler={loadMore} allItems={allItems}/>
