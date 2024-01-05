@@ -7,7 +7,7 @@ import FooterThree from "../../components/footer/FooterThree";
 const AboutPage = () => {
     return (
         <div className={`main-wrapper`}>
-            <Header/>
+            <Header classes={'position-static'}/>
             <SideHeader mobile={true}/>
             <ContentAboutPage/>
             <FooterThree position={'fixed'}/>
