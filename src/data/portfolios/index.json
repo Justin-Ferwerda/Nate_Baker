@@ -1,6 +1,96 @@
 [
   {
-    "id": 1,
+    "title": "Start to Start with Jake Irvin",
+    "slug": "start-to-start",
+    "category": "",
+    "thumb": "start-to-start.jpg",
+    "description": "The first in a series of 5 videos created throughout the series, I went behind the scenes with starting pitcher Jake Irvin to show our fans how he stays healthy and prepared between starts.",
+    "previewImages": [
+      "pD6gED4xfrI"
+    ],
+    "meta": {
+      "role": "Camera Operator, Editor, Producer and Director"
+    }
+  },
+  {
+    "title": "Coaching Staff Visit to VA Hospital",
+    "slug": "coaching-visit",
+    "category": "",
+    "thumb": "hospital-visit.jpg",
+    "description": "Being in DC allows for our team to play a very active role in supporting our military. On this occasion, members of our coaching staff took the time to visit patiences doing long-term care at a local VA hospital.",
+    "previewImages": [
+      "d3jzs-rwIqE"
+    ],
+    "meta": {
+      "role": "Camera Operator, Editor"
+    }
+  },
+  {
+    "title": "Golfing with The Nationals",
+    "slug": "golfing-with-the-nationals",
+    "category": "",
+    "thumb": "golf-outing.jpg",
+    "description": "During spring training, four Nationals players took on the nine-hole Par 3 course at Panther National near West Palm Beach, FL. This is one of my more ambitious projects to-date.",
+    "previewImages": [
+      "ZFYRx9Xb_Po"
+    ],
+    "meta": {
+      "role": "Camera Operator, Director, Editor"
+    }
+  },
+  {
+    "title": "30-Second Promo for Bourbon Event",
+    "slug": "bbq-and-barrels",
+    "category": "",
+    "thumb": "bbq-and-barrels.jpg",
+    "description": "Nationals Park often opens its doors for events outside of baseball and I created this promo video, along with a collection of short versions in various ratios for social media channels, to promote our inaugural 'BBQ and Barrels' event.",
+    "previewImages": [
+      "pMfbsuzDKvE"
+    ],
+    "meta": {
+      "role": "Camera Operator, Director, Editor"
+    }
+  },
+  {
+    "title": "James Wood Call-Up",
+    "slug": "wood-call-up",
+    "category": "",
+    "thumb": "wood-call-up.jpg",
+    "description": "One of the most anticipated call-ups in all of baseball during the 2024 season, I edited this short hype video featuring our footage and some art and highlights provided by our minor league affiliates, to release the morning of his debut on July 1st. ",
+    "previewImages": [
+      "OVWIt6n_8EQ"
+    ],
+    "meta": {
+      "role": "Editor"
+    }
+  },
+  {
+    "title": "The Green Monster Tour",
+    "slug": "green-monster-tour",
+    "category": "",
+    "thumb": "green-monster-tour.jpg",
+    "description": "It's tradition for players who have never been to Fenway Park in Boston to take a tour of the inside of the famous 'Green Monster' wall in left field. With such a young roster, we had a pretty large group who took a look around and signed their names. This also aired on our RSN during the series.",
+    "previewImages": [
+      "BUyoyNP_q3Q"
+    ],
+    "meta": {
+      "role": "Camera Operator, Editor"
+    }
+  },
+  {
+    "title": "2024 Opening Day Hype",
+    "slug": "2024-opening-day",
+    "category": "",
+    "thumb": "2024-opening-day.jpg",
+    "description": "Going into the 2024 season, we launched a multifaceted campaign that focused on our history and our future. To kick-off the 'history' portion of this campaign, I wrote the script and directed this shoot with Ryan Zimmerman. ",
+    "previewImages": [
+      "dDZFz498ZNE"
+    ],
+    "meta": {
+      "role": "Writer, Director, Editor"
+    }
+  },
+  {
     "title": "Nationals Manager Dave Martinez, Mic'd Up",
     "slug": "dave-martinez-miced-up",
     "category": "",
@@ -14,7 +104,6 @@
     }
   },
   {
-    "id": 2,
     "title": "NEXT 2018 - Corcoran School of Arts & Design",
     "slug": "corcoran-school",
     "category": "",
@@ -28,7 +117,6 @@
     }
   },
   {
-    "id": 3,
     "title": "Nats on Base Abroad: July 4th in Qatar",
     "slug": "nats-on-base",
     "category": "",
@@ -42,7 +130,6 @@
     }
   },
   {
-    "id": 4,
     "title": "2019 Nationals Wild Card Game Fan Footage Recap",
     "slug": "2019-Nats-fan-footage-recap",
     "category": "",
@@ -56,7 +143,6 @@
     }
   },
   {
-    "id": 5,
     "title": "'Silence and Beauty' by Makoto Fujiimura",
     "slug": "silence-and-beauty",
     "category": "",
@@ -70,7 +156,6 @@
     }
   },
   {
-    "id": 6,
     "title": "2019 World Series Recap",
     "slug": "world-series-recap",
     "category": "",
@@ -84,7 +169,6 @@
     }
   },
   {
-    "id": 7,
     "title": "2022 Washington Nationals 'City Connect' In-Game Hype Video",
     "slug": "in-game-hype-video",
     "category": "",
@@ -98,7 +182,6 @@
     }
   },
   {
-    "id": 8,
     "title": "The Common Year Vol. 3 - Lupe Carroll",
     "slug": "tcy-carroll",
     "category": "",
@@ -112,7 +195,6 @@
     }
   },
   {
-    "id": 9,
     "title": "Washington Nationals Big Leaguers Take on Little League Classic",
     "slug": "little-league-classic",
     "category": "",
