@@ -1,16 +1,12 @@
 import React, {Fragment} from 'react';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-
-/*
-* @ Component Imported
-* */
 import AboutPage from "./pages/about";
 import ErrorPage from "./pages/404Error";
 import HomeThreeColumn from "./pages/home/HomeThreeColumn";
+import Portfolio from './pages/portfolio/grid/two-column';
 import PortfolioDetailsPage from "./pages/myReel";
 import PhotoThreeColumnPage from './pages/photography/three-column';
 import VideoDetailsPage from './pages/portfolio/details';
-import Portfolio from './pages/portfolio/grid/two-column';
 import AllPhotosPage from './pages/photography/all-photos';
 
 const App = () => {
