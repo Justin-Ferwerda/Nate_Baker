@@ -13,7 +13,7 @@
 .blog-home-hero {
     height: 100vh;
     width: 100%;
-    background-image: url(../images/bg/blog-hero.png);
+   /*  background-image: url(../images/bg/blog-hero.png); */
     background-size: cover;
     background-position: center center;
     display: flex;
@@ -100,9 +100,9 @@
 }
 
 /*----- new hero style start -----*/
-.slider-bg-1 {
+/* .slider-bg-1 {
     background-image: url(../images/hero/slider-1.jpg);
-}
+} */
 
 /*Main Slider One*/
 .main-slider-1 {
