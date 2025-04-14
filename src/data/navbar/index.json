@@ -14,9 +14,21 @@
   },
   {
     "id": 4,
-    "title": "My Reel",
-    "link": "/my-reel",
-    "megaMenu": false
+    "title": "My Reels",
+    "link": "/my-reels/baseball",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "id": 4.1,
+        "title": "Baseball Reel",
+        "link": "/my-reels/baseball"
+      },
+      {
+        "id": 4.2,
+        "title": "Marketing Reel",
+        "link": "/my-reels/marketing"
+      }
+    ]
   },
   {
     "id": 3,
