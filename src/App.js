@@ -9,6 +9,7 @@ import ErrorPage from "./pages/404Error";
 import HomeThreeColumn from "./pages/home/HomeThreeColumn";
 import PortfolioDetailsPage from "./pages/myReel";
 import PhotoThreeColumnPage from './pages/photography/three-column';
+import VideoDetailsPage from './pages/portfolio/details';
 import Portfolio from './pages/portfolio/grid/two-column';
 import AllPhotosPage from './pages/photography/all-photos';
 
@@ -22,7 +23,7 @@ const App = () => {
                      <Route path={`${process.env.PUBLIC_URL + "/my-reels/:slug"}`}
                            component={PortfolioDetailsPage}/>
                      <Route path={`${process.env.PUBLIC_URL + "/portfolio/:slug"}`}
-                           component={PortfolioDetailsPage}/>
+                           component={VideoDetailsPage}/>
                      <Route path={`${process.env.PUBLIC_URL + "/about"}`}
                            component={AboutPage}/>
                      <Route path={`${process.env.PUBLIC_URL + "/portfolio"}`}
